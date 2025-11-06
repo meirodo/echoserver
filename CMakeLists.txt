@@ -23,7 +23,6 @@ target_sources(es_client
 # ==========
 # BEGIN: Server
 # ==========
-
 add_executable(es_server)
 
 target_compile_features(es_server
