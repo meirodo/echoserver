@@ -1,0 +1,3 @@
+build/*
+!build/es_client
+!build/es_server
